@@ -1,0 +1,42 @@
+*{
+margin:0;
+padding:0;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.dGqWLeVDc3GzcEHDslVI4wHaE8?w=307&h=180&c=7&r=0&o=7&pid=1.7&rm=3);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 30px;
+    padding: 20PX;
+}   
+
+h1{
+    font-style: italic;
+    
+}
+h3{
+    padding: 20px;
+}
+.container{
+margin: 20px;
+border: dotted;
+border-color: rgb(17, 180, 80);
+width: 25%;
+height: 30%;
+padding: 70px;
+background-color: bisque;
+border-radius: 30px;
+}
+img{
+    border-radius: 30px;
+    border: dashed;
+   border-color: rgb(233, 99, 99);
+    width: 70%;
+    height: 70%;
+}
+p{
+    margin: 20px;
+    border: 3px solid;
+    border-radius: 10px;
+    border-color: brown;
+}
